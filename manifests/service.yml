@@ -4,7 +4,6 @@ metadata:
   labels:
     app: solar-system
   name: solar-system-service
-  namespace: openshift-operators
 spec:
   ports:
   - port: 80 #change to 80
