@@ -4,7 +4,6 @@ metadata:
   labels:
     app: solar-system
   name: solar-system
-  namespace: openshift-operators
 spec:
   replicas: 3
   selector:
